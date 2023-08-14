@@ -1,7 +1,6 @@
 # QOSF-Mentorship-Screening-Task-Cohort-7
-Screening task 2 "Is Rectangle?" attempt for QOSF Mentorship cohort 7
-
-Solution implemented using PennyLane.
+A solution to the screening task (titled "Is Rectangle?") for the QOSF Mentorship's 7th cohort.
+Implemented using PennyLane.
 
 ## Solution idea
 Lengths were encoded into quantum states, and a SWAP test was used to compare these.
